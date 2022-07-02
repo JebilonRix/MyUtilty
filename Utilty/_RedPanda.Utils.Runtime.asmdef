@@ -1,0 +1,14 @@
+{
+    "name": "_RedPanda.Utils.Runtime",
+    "rootNamespace": "RedPanda",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

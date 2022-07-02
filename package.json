@@ -1,0 +1,11 @@
+{
+  "name": "com.redpanda.utilty",
+  "version": "1.0.0",
+  "displayName": "RedPanda Utility",
+  "description": "Utility",
+  "unity": "2020.1",
+  "keywords": [
+    "utilty"
+  ],
+  "author": "Red Panda"
+}
